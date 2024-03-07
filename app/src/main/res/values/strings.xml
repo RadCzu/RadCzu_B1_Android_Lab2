@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sorter</string>
+    <string name="no_algorithm_selected_message">Please select a sorting algorithm</string>
+    <string name="bubble_desc">This algorithm compares each element in the sorted collection with the next one and swaps them if they are ordered incorrectly. Once it reaches the end of the collection, it repeats the process unit 0 swaps are made in a sorting loop.</string>
+    <string name="quicksort_desc">Algorithm splits a collection in half over and over again until the sorted part reaches 2 elements. It works by ordering all elements higher than the middle one to the right of it.</string>
+</resources>
